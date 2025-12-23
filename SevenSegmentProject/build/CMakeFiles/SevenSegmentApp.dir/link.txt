@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SevenSegmentApp.dir/app/main.cpp.o -o SevenSegmentApp  -Wl,-rpath,/home/mrdark/ITI/workspace/ITI-RPi3/SevenSegmentProject/build libSevenSegmentLib.so

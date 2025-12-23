@@ -1,0 +1,1 @@
+/home/mrdark/x-tools/aarch64-rpi3-linux-gnu/bin/aarch64-rpi3-linux-gnu-g++ CMakeFiles/SevenSegmentApp.dir/app/main.cpp.o -o SevenSegmentApp  -Wl,-rpath,/home/mrdark/ITI/workspace/ITI-RPi3 libSevenSegmentLib.so

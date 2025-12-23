@@ -1,0 +1,4 @@
+/home/mrdark/ITI/workspace/ITI-RPi3/CMakeFiles/SevenSegmentLib.dir
+/home/mrdark/ITI/workspace/ITI-RPi3/CMakeFiles/SevenSegmentApp.dir
+/home/mrdark/ITI/workspace/ITI-RPi3/CMakeFiles/edit_cache.dir
+/home/mrdark/ITI/workspace/ITI-RPi3/CMakeFiles/rebuild_cache.dir
